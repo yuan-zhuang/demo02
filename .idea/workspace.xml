@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a869d0e-dcc9-4ca8-831d-81af79bc3da2" name="Default Changelist" comment="第二次作业">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regular.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/file/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/file/SearchFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/file/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regular/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regular/RegularExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regular/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/socket/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/socket/DataSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/socket/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/socket/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/socket/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/t.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/time/CalendarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/time/DateFormatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/time/DateFormatThreadLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/time/DateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/time/LocalDateTimeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/time/MyTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/time/TestMyTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/time/TestSimpleDateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/demo02.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/file/ReadFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/file/SearchFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/file/WriteFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/regular/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/regular/RegularExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/regular/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/socket/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/socket/DataSocket$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/socket/DataSocket$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/socket/DataSocket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/socket/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/socket/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/socket/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/time/CalendarDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/time/DateFormatDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/time/DateFormatThreadLocal$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/time/DateFormatThreadLocal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/time/DateTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/time/LocalDateTimeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/time/MyTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/time/TestMyTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/time/TestSimpleDateFormat$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/time/TestSimpleDateFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/apache-maven/apache-maven-3.6.3/repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1c2QKp9SeYaIvHUMXfESCv0sQbt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="DataSocket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="socket.DataSocket" />
+      <module name="demo02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="socket.Demo" />
+      <module name="demo02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="socket.Server" />
+      <module name="demo02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regular.Test" />
+      <module name="demo02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="regular.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="socket.test" />
+      <module name="demo02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.DataSocket" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a869d0e-dcc9-4ca8-831d-81af79bc3da2" name="Default Changelist" comment="" />
+      <created>1589724146812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589724146812</updated>
+      <workItem from="1589724148322" duration="2972000" />
+      <workItem from="1589767273483" duration="2386000" />
+      <workItem from="1589800771757" duration="4115000" />
+      <workItem from="1589840631532" duration="3141000" />
+      <workItem from="1589859890253" duration="14413000" />
+      <workItem from="1589936160198" duration="3635000" />
+      <workItem from="1589941067000" duration="18407000" />
+      <workItem from="1590023646383" duration="19170000" />
+      <workItem from="1590111501652" duration="16765000" />
+      <workItem from="1590192642593" duration="14057000" />
+      <workItem from="1590286937736" duration="1350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第二次作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次作业" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="138" y="23" key="#Project_Structure" timestamp="1589941231528">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state x="138" y="23" key="#Project_Structure/0.23.1280.692@0.23.1280.692" timestamp="1589941231528" />
+    <state x="429" y="159" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590067595621">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state x="429" y="159" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.692@0.23.1280.692" timestamp="1590067595621" />
+    <state width="1218" height="2" key="GridCell.Tab.0.bottom" timestamp="1590288321997">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state width="1238" height="163" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1590158679776" />
+    <state width="1218" height="2" key="GridCell.Tab.0.bottom/0.23.1280.692@0.23.1280.692" timestamp="1590288321997" />
+    <state width="1218" height="81" key="GridCell.Tab.0.bottom/0.23.1280.695@0.23.1280.695" timestamp="1589894657324" />
+    <state width="1218" height="2" key="GridCell.Tab.0.center" timestamp="1590288321996">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state width="1238" height="163" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1590158679775" />
+    <state width="1218" height="2" key="GridCell.Tab.0.center/0.23.1280.692@0.23.1280.692" timestamp="1590288321996" />
+    <state width="1218" height="81" key="GridCell.Tab.0.center/0.23.1280.695@0.23.1280.695" timestamp="1589894657322" />
+    <state width="1218" height="2" key="GridCell.Tab.0.left" timestamp="1590288321996">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state width="1238" height="163" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1590158679774" />
+    <state width="1218" height="2" key="GridCell.Tab.0.left/0.23.1280.692@0.23.1280.692" timestamp="1590288321996" />
+    <state width="1218" height="81" key="GridCell.Tab.0.left/0.23.1280.695@0.23.1280.695" timestamp="1589894657321" />
+    <state width="1218" height="2" key="GridCell.Tab.0.right" timestamp="1590288321997">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state width="1238" height="163" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1590158679776" />
+    <state width="1218" height="2" key="GridCell.Tab.0.right/0.23.1280.692@0.23.1280.692" timestamp="1590288321997" />
+    <state width="1218" height="81" key="GridCell.Tab.0.right/0.23.1280.695@0.23.1280.695" timestamp="1589894657323" />
+    <state width="1218" height="197" key="GridCell.Tab.1.bottom" timestamp="1589859869070">
+      <screen x="0" y="23" width="1280" height="695" />
+    </state>
+    <state width="1218" height="197" key="GridCell.Tab.1.bottom/0.23.1280.695@0.23.1280.695" timestamp="1589859869070" />
+    <state width="1218" height="197" key="GridCell.Tab.1.center" timestamp="1589859869069">
+      <screen x="0" y="23" width="1280" height="695" />
+    </state>
+    <state width="1218" height="197" key="GridCell.Tab.1.center/0.23.1280.695@0.23.1280.695" timestamp="1589859869069" />
+    <state width="1218" height="197" key="GridCell.Tab.1.left" timestamp="1589859869069">
+      <screen x="0" y="23" width="1280" height="695" />
+    </state>
+    <state width="1218" height="197" key="GridCell.Tab.1.left/0.23.1280.695@0.23.1280.695" timestamp="1589859869069" />
+    <state width="1218" height="197" key="GridCell.Tab.1.right" timestamp="1589859869070">
+      <screen x="0" y="23" width="1280" height="695" />
+    </state>
+    <state width="1218" height="197" key="GridCell.Tab.1.right/0.23.1280.695@0.23.1280.695" timestamp="1589859869070" />
+    <state x="188" y="23" key="Maven.ArtifactSearchDialog" timestamp="1589940592559">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state x="188" y="23" key="Maven.ArtifactSearchDialog/0.23.1280.692@0.23.1280.692" timestamp="1589940592559" />
+    <state x="465" y="78" key="RollbackChangesDialog" timestamp="1590288318964">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state x="465" y="78" key="RollbackChangesDialog/0.23.1280.692@0.23.1280.692" timestamp="1590288318964" />
+    <state x="247" y="23" key="SettingsEditor" timestamp="1590287712031">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state x="247" y="23" key="SettingsEditor/0.23.1280.692@0.23.1280.692" timestamp="1590287712031" />
+    <state x="138" y="23" key="SettingsEditor/0.23.1280.695@0.23.1280.695" timestamp="1589800750193" />
+    <state x="250" y="90" key="Vcs.Push.Dialog.v2" timestamp="1590287614266">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state x="250" y="90" key="Vcs.Push.Dialog.v2/0.23.1280.692@0.23.1280.692" timestamp="1590287614266" />
+    <state x="368" y="106" key="extract.method.dialog" timestamp="1590051750345">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state x="368" y="106" key="extract.method.dialog/0.23.1280.692@0.23.1280.692" timestamp="1590051750345" />
+    <state x="472" y="251" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590287223820">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state x="472" y="251" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1280.692@0.23.1280.692" timestamp="1590287223820" />
+  </component>
+</project>
